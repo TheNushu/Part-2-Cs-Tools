@@ -1,0 +1,12 @@
+beer
+beer2
+whiskey
+champagne
+chocolate
+coca_cola
+pepsi
+fanta
+apple_cider
+absinte
+strawberry_cider
+
