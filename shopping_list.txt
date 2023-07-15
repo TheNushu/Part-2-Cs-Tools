@@ -1,3 +1,4 @@
+cd_manele_vechi
 beer
 beer2
 whiskey
